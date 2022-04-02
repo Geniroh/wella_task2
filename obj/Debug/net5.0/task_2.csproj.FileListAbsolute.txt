@@ -1,0 +1,16 @@
+I:\Gencodes\Wella_dev\wella_task\task_2\obj\Debug\net5.0\task_2.csproj.AssemblyReference.cache
+I:\Gencodes\Wella_dev\wella_task\task_2\obj\Debug\net5.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+I:\Gencodes\Wella_dev\wella_task\task_2\obj\Debug\net5.0\task_2.AssemblyInfoInputs.cache
+I:\Gencodes\Wella_dev\wella_task\task_2\obj\Debug\net5.0\task_2.AssemblyInfo.cs
+I:\Gencodes\Wella_dev\wella_task\task_2\obj\Debug\net5.0\task_2.csproj.CoreCompileInputs.cache
+I:\Gencodes\Wella_dev\wella_task\task_2\bin\Debug\net5.0\task_2.exe
+I:\Gencodes\Wella_dev\wella_task\task_2\bin\Debug\net5.0\task_2.deps.json
+I:\Gencodes\Wella_dev\wella_task\task_2\bin\Debug\net5.0\task_2.runtimeconfig.json
+I:\Gencodes\Wella_dev\wella_task\task_2\bin\Debug\net5.0\task_2.runtimeconfig.dev.json
+I:\Gencodes\Wella_dev\wella_task\task_2\bin\Debug\net5.0\task_2.dll
+I:\Gencodes\Wella_dev\wella_task\task_2\bin\Debug\net5.0\ref\task_2.dll
+I:\Gencodes\Wella_dev\wella_task\task_2\bin\Debug\net5.0\task_2.pdb
+I:\Gencodes\Wella_dev\wella_task\task_2\obj\Debug\net5.0\task_2.dll
+I:\Gencodes\Wella_dev\wella_task\task_2\obj\Debug\net5.0\ref\task_2.dll
+I:\Gencodes\Wella_dev\wella_task\task_2\obj\Debug\net5.0\task_2.pdb
+I:\Gencodes\Wella_dev\wella_task\task_2\obj\Debug\net5.0\task_2.genruntimeconfig.cache
